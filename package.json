@@ -1,0 +1,11 @@
+{
+  "name": "nuevas_funcionalidades",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --watch productos_js/ProductManager.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
